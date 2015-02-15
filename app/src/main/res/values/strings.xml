@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReviewExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="swap_fragment">Swap Fragment</string>
+    <string name="new_activity">New Activity</string>
+    <string name="dialog_frag">Dialog Fragment</string>
+
+    <string-array name="categories">
+        <item>Dance</item>
+        <item>Gallery</item>
+        <item>Music</item>
+        <item>Theatre</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
